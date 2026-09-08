@@ -1,7 +1,5 @@
 # Custom Mini-Shell
 
-# Overview
-
 Mini Shell is a lightweight Unix-like command-line interpreter implemented in C. It supports the execution of built-in and external commands, piping, signal handling, and a dynamic prompt that displays the current working directory.
 
 ## Features
