@@ -68,12 +68,3 @@ minishell:/home/ananya/projects$ ls | grep shell
 minishell:/home/ananya/projects$ echo Hello World
 Hello World
 ```
-
-## Learning Outcomes
-
-*   Understanding how Unix shells interpret and execute commands.
-*   Hands-on experience with process creation and management using `fork()`, `execvp()`, and `wait()`.
-*   Practical implementation of inter-process communication (IPC) via pipes.
-*   Implementing custom signal handling in a continuous loop.
-*   Improved modular programming, memory management, and debugging skills in C.
-*   Exposure to real-world Linux system programming concepts.vv
