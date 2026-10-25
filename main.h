@@ -4,20 +4,6 @@
  *                Contains macro definitions, data structures,
  *                function prototypes, and required system headers
  *                used across the MiniShell application.
- *
- *                This file supports:
- *                - Command parsing and classification
- *                - Execution of built-in and external commands
- *                - Signal handling (SIGINT, SIGTSTP, SIGCHLD)
- *                - Process management and job control
- *                - ANSI color formatting for prompt display
- *                - Linked list based background process tracking
- *
- *                Major Components:
- *                - Macro definitions for command types
- *                - ANSI escape sequences for colored output
- *                - Singly linked list for job control
- *                - Function declarations for shell operations
  ***********************************************************************/
 
 #ifndef MAIN_H
